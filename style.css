@@ -203,3 +203,32 @@ padding: 20px 0px;
     text-align: center;
     margin-top: 50px;
 }
+
+/*footer*/
+
+footer{
+    background-color: rgb(255, 248, 243);
+    padding: 130px 200px;
+    display: flex;
+    gap: 100px;
+
+}
+.foo_des{
+    color: #474747;
+    font-size: 16px;
+}
+
+input[type="text"],input[type="email"],textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    border: none;
+    display: block;
+    padding: 02px 30px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.footer_contact,.footer_info{
+    width: 50%;
+}
