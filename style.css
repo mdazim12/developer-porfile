@@ -80,12 +80,14 @@ nav ul li a{
     color: #474747;
     font-size: 45px;
     font-weight: 600;
+    margin: 0px;
 }
 
 .banner_title{
     color: #181818;
     font-weight: 700;
     font-size: 85px;
+    margin: 0px;
 }
 
 .banner_des{
