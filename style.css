@@ -232,3 +232,6 @@ input[type="text"],input[type="email"],textarea{
 .footer_contact,.footer_info{
     width: 50%;
 }
+.icon{
+    padding: 0px 10px;
+}
